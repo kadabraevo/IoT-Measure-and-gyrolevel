@@ -8,11 +8,13 @@ Connects to wifi and sends measured data to your node server by pressing a butto
 
 ## How to setup
 ### Initialize the project
-npm init -y
+npm init
+
 This creates a package.json file.
 
 ### Install Express
 npm install express
+
 Express is a web framework built on top of Node.js. It makes
 creating web servers and API endpoints easier.
 
