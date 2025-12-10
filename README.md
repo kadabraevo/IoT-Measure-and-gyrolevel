@@ -23,7 +23,7 @@ npm init -y
 
 This creates a package.json file.
 
-### Install Express
+### Install Express and sqlite3
 ```
 npm install express sqlite3
 ````
