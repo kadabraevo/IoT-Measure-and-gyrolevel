@@ -47,6 +47,6 @@ node server.js
 ## Make measurement by pressing the physical button or button in the chart.html
 
 
-<img width="671" height="638" alt="96fc66e550eb42dd1b74a517378279ec" src="https://github.com/user-attachments/assets/8d673e7f-19af-4521-a5fa-947d67cd44e2" />
 <img width="925" height="606" alt="Nimetön" src="https://github.com/user-attachments/assets/455d6fe8-8a36-4f9c-b1e7-966e8050ebb7" />
+<img width="671" height="638" alt="96fc66e550eb42dd1b74a517378279ec" src="https://github.com/user-attachments/assets/8d673e7f-19af-4521-a5fa-947d67cd44e2" />
 
