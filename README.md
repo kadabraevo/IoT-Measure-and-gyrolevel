@@ -21,16 +21,12 @@ This creates a package.json file.
 
 ### Install Express
 ```
-npm install express
+npm install express sqlite3
 ````
 
 Express is a web framework built on top of Node.js. It makes
 creating web servers and API endpoints easier.
-
-### Database setup
-```
-npm install express sqlite3
-```
+Sqlite3 for the database
 
 ### Run server
 ```
