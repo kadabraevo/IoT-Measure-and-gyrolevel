@@ -1,10 +1,45 @@
-# IoT-Measure-and-level
-## IoT Measure and level, created witch Raspberry Pico W, and microPython
+# IoT-Measure-and-gyrolevel
+## IoT Measure and gyro level, created witch Raspberry Pico W,  microPython, JS and html
 
 ### Simple Raspberry Pico WH IoT device using a potentiometer, led's, lcd screen, MPU6050 and a button.
 Converts voltage using picos built in PWM to degrees and transforms it to cm.
 Uses MPU6050 as a level sensor. 
-Connects to wifi and sends measured data to ThingSpeak by pressing a button. 
+Connects to wifi and sends measured data to your node server by pressing a button, or using the button on the chart.html
+
+## How to setup
+Go to https://nodejs.org and download the LTS version for your operating system.
+- Run the installer
+- Make sure to “Add to PATH” during installation
+- Finish the setup
+
+Install SQLite from https://www.sqlite.org/download.html
+- Extract the zip to a folder
+- Add the folder path to the SQLite executable to PATH variable.
+
+## Manual code changes
+Inserting wifi SSID, password and server url into Pico's main.py code
+
+
+### Initialize the project in desired folder
+```
+npm init -y
+```
+
+This creates a package.json file.
+
+### Install Express and sqlite3
+```
+npm install express sqlite3
+````
+
+Express is a web framework built on top of Node.js. It makes
+creating web servers and API endpoints easier.
+Sqlite3 for the database
+
+### Run server
+```
+node server.js
+```
 
 
 <img width="671" height="638" alt="96fc66e550eb42dd1b74a517378279ec" src="https://github.com/user-attachments/assets/8d673e7f-19af-4521-a5fa-947d67cd44e2" />
