@@ -3,8 +3,11 @@
 
 ### Simple Raspberry Pico WH IoT device using a potentiometer, led's, lcd screen, MPU6050 and a button.
 Converts voltage using picos built in PWM to degrees and transforms it to cm.
+
 Uses MPU6050 as a level sensor. 
+
 Connects to wifi and sends measured data to your node server by pressing a button, or using the button on the chart.html
+
 
 ## How to setup
 Go to https://nodejs.org and download the LTS version for your operating system.
