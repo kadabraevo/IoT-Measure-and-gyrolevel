@@ -1,4 +1,4 @@
-/package-lock.json
+package-lock.json
 /node_modules
-/package.json
-/sensor_data.db
+package.json
+sensor_data.db
