@@ -8,11 +8,11 @@ import network
 import urequests
 import _thread
 
-ssid = 'Wokwi-GUEST'     # SSID of the Wi-Fi network
-password = ''            # Password 
+ssid = '###'     # SSID of the Wi-Fi network
+password = '###'            # Password 
 
 # Replace the ThingSpeak configuration with:
-SERVER_URL = 'http://192.168.1.112:3000/api/sensor'  # Replace YOUR_COMPUTER_IP
+SERVER_URL = 'http://192.168.1.1:3000/api/sensor'  # Replace YOUR_COMPUTER_IP
 
 # Set up Wi-Fi in station mode
 
