@@ -12,7 +12,7 @@ Go to https://nodejs.org and download the LTS version for your operating system.
 - Make sure to “Add to PATH” during installation
 - Finish the setup
 
-- Install SQLite from https://www.sqlite.org/download.html
+Install SQLite from https://www.sqlite.org/download.html
 - Extract the zip to a folder
 - Add the folder path to the SQLite executable to PATH variable.
 
