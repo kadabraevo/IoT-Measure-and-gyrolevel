@@ -8,7 +8,9 @@ Connects to wifi and sends measured data to your node server by pressing a butto
 
 ## How to setup
 ### Initialize the project
+´´´
 npm init
+´´´
 
 This creates a package.json file.
 
