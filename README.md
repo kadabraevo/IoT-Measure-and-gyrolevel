@@ -1,5 +1,5 @@
-# IoT-Measure-and-level
-## IoT Measure and level, created witch Raspberry Pico W, and microPython
+# IoT-Measure-and-gyrolevel
+## IoT Measure and gyro level, created witch Raspberry Pico W,  microPython, JS and html
 
 ### Simple Raspberry Pico WH IoT device using a potentiometer, led's, lcd screen, MPU6050 and a button.
 Converts voltage using picos built in PWM to degrees and transforms it to cm.
@@ -8,9 +8,9 @@ Connects to wifi and sends measured data to your node server by pressing a butto
 
 ## How to setup
 ### Initialize the project
-´´´
+```
 npm init
-´´´
+```
 
 This creates a package.json file.
 
