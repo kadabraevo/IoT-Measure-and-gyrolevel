@@ -16,7 +16,11 @@ Install SQLite from https://www.sqlite.org/download.html
 - Extract the zip to a folder
 - Add the folder path to the SQLite executable to PATH variable.
 
-### Initialize the project
+## Manual code changes
+Inserting wifi SSID, password and server url into Pico's main.py code
+
+
+### Initialize the project in desired folder
 ```
 npm init -y
 ```
