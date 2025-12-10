@@ -8,9 +8,9 @@ Connects to wifi and sends measured data to your node server by pressing a butto
 
 ## How to setup
 Go to https://nodejs.org and download the LTS version for your operating system.
-• Run the installer
-• Make sure to “Add to PATH” during installation.
-• Finish the setup
+- Run the installer
+- Make sure to “Add to PATH” during installation
+- Finish the setup
 
 ### Initialize the project
 ```
