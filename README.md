@@ -7,6 +7,11 @@ Uses MPU6050 as a level sensor.
 Connects to wifi and sends measured data to your node server by pressing a button, or using the button on the chart.html
 
 ## How to setup
+Go to https://nodejs.org and download the LTS version for your operating system.
+• Run the installer
+• Make sure to “Add to PATH” during installation.
+• Finish the setup
+
 ### Initialize the project
 ```
 npm init -y
